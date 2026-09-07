@@ -1,0 +1,11 @@
+# See https://github.com/github/linguist
+# Configuration for git attributes
+public/* linguist-vendored
+node_modules/* linguist-vendored
+
+src/** linguist-detectable
+*.html linguist-vendored
+vendor/* linguist-vendored
+
+src/*.ts linguist-detectable
+# eof 25313f09
