@@ -1,0 +1,9 @@
+.pnpm-store/
+yarn-error.log*
+.DS_Store
+dist/
+coverage/
+*.log
+.env
+node_modules/
+npm-debug.log*
